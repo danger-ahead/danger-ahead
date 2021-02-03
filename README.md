@@ -4,7 +4,7 @@
 
 - 💡 I'm interested in competitive programming
 - 🌱 I’m currently learning Data Structures And Algorithms
-- ⚡ Fun fact: I always feel tired
+- ⚡ Fun fact: I feel tired almost always
 
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="shourya-shikhar"><a class="LI-simple-link" href='https://in.linkedin.com/in/shourya-shikhar?trk=profile-badge'>Shourya Shikhar Ghosh</a></div>
