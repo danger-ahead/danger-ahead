@@ -1,4 +1,5 @@
-### hi, this is shourya
+![profileViews](https://enihmv5bm33qwsq.m.pipedream.net/?username=danger-ahead)
+## hi, this is shourya
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/-A8B9CC?logo=C&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-FF0055?logo=Java&logoColor=white&style=for-the-badge)
@@ -11,13 +12,11 @@
 
 ----
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=danger-ahead&&show_icons=true&theme=tokyonight"> >
-### my gitHub stats -->
-![danger-ahead's github stats](https://github-readme-stats.vercel.app/api?username=danger-ahead&show_icons=true&include_all_commits=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danger-ahead&theme=radical)
+![danger-ahead's github stats](https://github-readme-stats.vercel.app/api?username=danger-ahead&show_icons=true&include_all_commits=true&theme=react)
 
-----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danger-ahead&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danger-ahead&theme=react)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danger-ahead&theme=react)
 
 -  i'm interested in competitive programming
 -  i feel tired almost always
