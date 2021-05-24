@@ -23,6 +23,21 @@
 
 ----
 
-### find me
-[![Linkedin Badge](https://img.shields.io/badge/-shourya--shikhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shourya-shikhar/)](https://www.linkedin.com/in/shourya-shikhar/)
-[![Mail Badge](https://img.shields.io/badge/-danger.ahead@pm.me-4B0082?style=flat-square&logo=Email&logoColor=white&link=mailto:danger.ahead@pm.me)](mailto:danger.ahead@pm.me)
+### contact me
+<p>
+    <a href = "https://www.linkedin.com/in/shourya-shikhar/">
+        <img src = "https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width = "30" height = "30">
+    </a> &nbsp;
+    <a href = "mailto:danger.ahead@pm.me">
+        <img src = "https://www.vectorlogo.zone/logos/protonmail/protonmail-icon.svg" width = "30" height = "30">
+    </a> &nbsp;
+    <a href = "https://t.me/danger_ahead">
+        <img src = "https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width = "30" height = "30">
+    </a> &nbsp;
+    <a href = "https://www.instagram.com/definitelynotshourya/">
+        <img src = "https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width = "30" height = "30">
+    </a> &nbsp;
+    <a href = "https://www.quora.com/profile/Shourya-Shikhar-1">
+        <img src = "https://www.vectorlogo.zone/logos/quora/quora-icon.svg" width = "30" height = "30">
+    </a> &nbsp;
+</p>
