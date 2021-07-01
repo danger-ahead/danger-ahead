@@ -1,5 +1,5 @@
 ![profileViews](https://enihmv5bm33qwsq.m.pipedream.net/?username=danger-ahead)
-## hi, this is shourya
+### Things I use:
 <p>
     <a href = "c">
         <img src = "resources/c.svg" width = "30" height = "30">
@@ -36,10 +36,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danger-ahead&theme=react)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danger-ahead&theme=react)
-
--  i'm interested in competitive programming
--  i feel tired almost always
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danger-ahead&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
 
