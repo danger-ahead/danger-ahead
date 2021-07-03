@@ -25,7 +25,10 @@
     <a href = "bash-shell">
         <img src = "https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width = "30" height = "30">
     </a> &nbsp;
-    <a href = "bash-shell">
+    <a href = "flutter">
+        <img src = "https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width = "30" height = "30">
+    </a> &nbsp;
+    <a href = "virtualbox">
         <img src = "https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width = "30" height = "30">
     </a> &nbsp;
 </p>
