@@ -3,7 +3,8 @@
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=danger-ahead&layout=compact&hide_border=true&theme=dark"/>
 
-### contact me
+<br><br>
+
 <p>
     <a href = "https://www.linkedin.com/in/shourya-shikhar/">
         <img src = "https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width = "30" height = "30">
