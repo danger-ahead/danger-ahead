@@ -29,3 +29,5 @@
     </p><br>
     <p align="center"><a href="https://shourya.vercel.app">Visit my Portfolio!</a></p>
 </p>
+
+[![wakatime](https://wakatime.com/badge/user/cea3b689-cad0-4f6e-abba-0597f3b0a4bc.svg)](https://wakatime.com/@cea3b689-cad0-4f6e-abba-0597f3b0a4bc)
