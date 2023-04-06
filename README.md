@@ -3,17 +3,17 @@
         <code class="language-json">
             {
                 "who-am-i": "a cse undergrad",
-                "currently-learning": "flutter, api and backend development",
+                "currently-learning": "flutter, nextjs, api development and sql",
                 "interested-in": "open source, machine learning",
                 "loves": "literature, linux and anything unix, music",
-                "hates": "windows, life",
+                "hates": "windows, windows users",
                 "can-be-seen-at": "my table either vibing to my heart will go on or nirvana",
                 "my-life": [
                     {
                         "short-summary": "a boy who loves to know and understand the underlying principles behind anything, be it our machines, our society, or just us."
                     },
                     {
-                        "other-aspects": "never shuts down his system, listens to romantic songs with a heavy heart and a broken love life, loves astronomy, loves technology, loves machines, loves the world but not his own life. :("
+                        "other-aspects": "never shuts down his system, listens to romantic songs, loves astronomy, loves technology, loves machines :)"
                     }
                 ]
             }
