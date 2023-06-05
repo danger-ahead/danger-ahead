@@ -31,5 +31,10 @@
         █▀▀ █░█ █▀▀ █▀▀ █▀█ █▀ █<br>
         █▄▄ █▀█ ██▄ ██▄ █▀▄ ▄█ ▄
     </p><br>
-    <p align="center"><a href="https://shourya.vercel.app">Visit my Portfolio!</a></p>
+    <p>I have 2 portfolio websites:
+        <ul>
+            <li><a href="https://shourya.floatingpoint.co.in">Next.JS Portfolio</a></li>
+            <li><a href="https://shourya.vercel.app">Flutter Portfolio (Not actively updated anymore!)</a></li>
+        </ul>
+    </p>
 </p>
