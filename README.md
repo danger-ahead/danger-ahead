@@ -2,7 +2,7 @@
     <pre>
         <code class="language-json">
             {
-                "who-am-i": "a cse undergrad",
+                "who-am-i": "a cse grad",
                 "currently-learning": "flutter, nextjs, api development and sql",
                 "interested-in": "open source, machine learning",
                 "loves": "literature, linux and anything unix, music",
@@ -22,7 +22,7 @@
     <p align="center">
     <img src="https://enihmv5bm33qwsq.m.pipedream.net/?username=danger-ahead">
     <br></br>
-    <img src="https://serverless-apis.vercel.app/api/wakatime_code_stats" /><br></br>
+    <img src="https://serverless-apis.vercel.app/api/wakatime_code_stats?background_color=2b2d42&header_color=8d99ae&value_color=edf2f4&border_color=F5F5DC" /><br></br>
     Liked the above stats? Checkout my <a href="https://github.com/danger-ahead/serverless-apis">repo<a/>.
     <br></br>
     <img src="https://github-readme-stats.vercel.app/api?username=danger-ahead&&layout=compact&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
